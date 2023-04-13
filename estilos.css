@@ -6,10 +6,31 @@
     float: left;
 
 }
+.nav-link1{
+    background-color: darkgreen;
+    -webkit-text-fill-color: aliceblue;
+    list-style: none;
+    margin-left:  25px;
+    float: left;
+
+}
 
 .container-fluid{
     background-color: dimgray;
     box-sizing: border-box;
     padding: 20px;
     
+}
+.container-fluid1{
+    background-color: dimgray;
+    box-sizing: border-box;
+    padding: 20px;
+    
+}
+.navbar-brand{ 
+    -webkit-text-fill-color: blue;
+}
+
+.navbar-brand1{ 
+    -webkit-text-fill-color:blueviolet;
 }
