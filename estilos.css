@@ -1,0 +1,15 @@
+.nav-link{
+    background-color: darkgreen;
+    -webkit-text-fill-color: aliceblue;
+    list-style: none;
+    margin-left:  25px;
+    float: left;
+
+}
+
+.container-fluid{
+    background-color: dimgray;
+    box-sizing: border-box;
+    padding: 20px;
+    
+}
