@@ -1,0 +1,4 @@
+El código de carrusel está listo
+Las imágenes añadidas son sólo referenciales
+lo msimo con los textos
+es sólo el carrusel, más no la página de inicio
